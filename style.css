@@ -1,0 +1,66 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h2{
+    text-align: center;
+}
+header{
+    height: 500px;
+    background-color: darkseagreen;
+    
+}
+h3{
+    text-align: right;
+}
+.ab{
+    text-align: right;
+}
+.sideAlign{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+button{
+    background-color: forestgreen;
+    border-radius: 25px;
+}
+.element2 {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+  .total{
+      height: 100px;
+      width: 200px;
+      position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(122, 185, 156);
+      
+  }
+  .element{
+    position: fixed;
+    top: 0;
+   width: 1250px;
+   height: 150px;
+  }
+
+  #topMargin{
+      margin-top: 150px;
+  }
+  .YODA_CODA{
+    
+   margin-right: 100px;
+   
+  }
+  .STAY{
+      position: fixed;
+      font-size: xx-small;
+  }
+  input{
+      margin-left: 500px;
+  }
+  .sizing{
+      height: 200px;
+      background-color: darkseagreen;
+      position: fixed;
+  }
